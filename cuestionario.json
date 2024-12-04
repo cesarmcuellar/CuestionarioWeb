@@ -1,0 +1,237 @@
+{
+    "multiple_choice_questions": [
+      {
+        "question": "¿Cuál de los siguientes es un lenguaje de programación utilizado para desarrollo web front-end?",
+        "options": [
+          "C#",
+          "Python",
+          "JavaScript",
+          "Java"
+        ],
+        "correct_answer": "JavaScript"
+      },
+      {
+        "question": "¿Qué significa la sigla 'API' en el contexto del desarrollo de software?",
+        "options": [
+          "Application Program Interface",
+          "Application Programming Interface",
+          "Application Process Interface",
+          "Advanced Programming Interface"
+        ],
+        "correct_answer": "Application Programming Interface"
+      },
+      {
+        "question": "¿Qué tipo de prueba se realiza para comprobar si una función o unidad de código individual funciona correctamente?",
+        "options": [
+          "Prueba de integración",
+          "Prueba unitaria",
+          "Prueba de sistema",
+          "Prueba de aceptación"
+        ],
+        "correct_answer": "Prueba unitaria"
+      },
+      {
+        "question": "¿Qué es el control de versiones?",
+        "options": [
+          "Una forma de optimizar el código",
+          "Un sistema para gestionar cambios en el código fuente",
+          "Un lenguaje de programación",
+          "Un tipo de base de datos"
+        ],
+        "correct_answer": "Un sistema para gestionar cambios en el código fuente"
+      },
+      {
+        "question": "¿Qué es un 'framework' en el desarrollo de software?",
+        "options": [
+          "Una base de datos",
+          "Un conjunto de herramientas para realizar pruebas",
+          "Una plataforma o conjunto de bibliotecas para facilitar el desarrollo de aplicaciones",
+          "Un lenguaje de programación"
+        ],
+        "correct_answer": "Una plataforma o conjunto de bibliotecas para facilitar el desarrollo de aplicaciones"
+      },
+      {
+        "question": "¿Qué es un repositorio en Git?",
+        "options": [
+          "Un archivo de configuración",
+          "Un lugar donde se almacenan los archivos del proyecto",
+          "Un sistema de control de versiones",
+          "Un tipo de framework"
+        ],
+        "correct_answer": "Un lugar donde se almacenan los archivos del proyecto"
+      },
+      {
+        "question": "¿Qué es una base de datos NoSQL?",
+        "options": [
+          "Una base de datos relacional",
+          "Una base de datos sin estructura",
+          "Una base de datos que utiliza tablas",
+          "Una base de datos de alto rendimiento"
+        ],
+        "correct_answer": "Una base de datos sin estructura"
+      },
+      {
+        "question": "¿Qué significa el término 'refactorización' en el desarrollo de software?",
+        "options": [
+          "Cambiar el propósito de una aplicación",
+          "Reescribir el código para mejorar su estructura sin cambiar su funcionalidad",
+          "Añadir nuevas características a un programa",
+          "Eliminar líneas de código innecesarias"
+        ],
+        "correct_answer": "Reescribir el código para mejorar su estructura sin cambiar su funcionalidad"
+      },
+      {
+        "question": "¿Qué es un algoritmo de ordenación?",
+        "options": [
+          "Un tipo de estructura de datos",
+          "Un conjunto de reglas para ordenar una lista de elementos",
+          "Un proceso para buscar elementos en una lista",
+          "Una técnica para eliminar errores en el código"
+        ],
+        "correct_answer": "Un conjunto de reglas para ordenar una lista de elementos"
+      },
+      {
+        "question": "¿Qué es la metodología Ágil en el desarrollo de software?",
+        "options": [
+          "Un enfoque rígido y estructurado para el desarrollo",
+          "Un proceso que enfatiza la entrega incremental y la colaboración",
+          "Un tipo de base de datos",
+          "Un marco de trabajo para pruebas de software"
+        ],
+        "correct_answer": "Un proceso que enfatiza la entrega incremental y la colaboración"
+      },
+      {
+        "question": "¿Cuál de los siguientes lenguajes es comúnmente usado para desarrollo de aplicaciones móviles para Android?",
+        "options": [
+          "Swift",
+          "Kotlin",
+          "Objective-C",
+          "JavaScript"
+        ],
+        "correct_answer": "Kotlin"
+      },
+      {
+        "question": "¿Qué es una API REST?",
+        "options": [
+          "Un servicio de base de datos en la nube",
+          "Un tipo de interfaz de programación de aplicaciones basada en HTTP y recursos",
+          "Un sistema operativo",
+          "Una herramienta de desarrollo de interfaces gráficas"
+        ],
+        "correct_answer": "Un tipo de interfaz de programación de aplicaciones basada en HTTP y recursos"
+      },
+      {
+        "question": "¿Qué significa la sigla 'CRUD' en el contexto de bases de datos?",
+        "options": [
+          "Create, Read, Update, Delete",
+          "Compile, Run, Upload, Download",
+          "Class, Read, Unify, Divide",
+          "Create, Read, Use, Delete"
+        ],
+        "correct_answer": "Create, Read, Update, Delete"
+      },
+      {
+        "question": "¿Qué es un 'pull request' en Git?",
+        "options": [
+          "Una solicitud para actualizar el repositorio local",
+          "Una solicitud para agregar un cambio al repositorio remoto",
+          "Un cambio en la rama principal",
+          "Un tipo de error que ocurre durante la compilación"
+        ],
+        "correct_answer": "Una solicitud para agregar un cambio al repositorio remoto"
+      },
+      {
+        "question": "¿Qué es el concepto de 'scrum' en el desarrollo de software?",
+        "options": [
+          "Un tipo de base de datos NoSQL",
+          "Un marco de trabajo ágil para gestionar proyectos de desarrollo",
+          "Un lenguaje de programación",
+          "Un sistema operativo para dispositivos móviles"
+        ],
+        "correct_answer": "Un marco de trabajo ágil para gestionar proyectos de desarrollo"
+      },
+      {
+        "question": "¿Qué es un 'bug' en el desarrollo de software?",
+        "options": [
+          "Una característica inesperada del software",
+          "Un error en el código del programa",
+          "Una nueva funcionalidad agregada al sistema",
+          "Un tipo de prueba de software"
+        ],
+        "correct_answer": "Un error en el código del programa"
+      },
+      {
+        "question": "¿Qué es un contenedor en el contexto del desarrollo de software?",
+        "options": [
+          "Un tipo de archivo de configuración",
+          "Una unidad de almacenamiento de datos",
+          "Un entorno de ejecución aislado para aplicaciones",
+          "Una base de datos relacional"
+        ],
+        "correct_answer": "Un entorno de ejecución aislado para aplicaciones"
+      },
+      {
+        "question": "¿Qué es el término 'deployment' en el desarrollo de software?",
+        "options": [
+          "El proceso de compilar el código",
+          "El proceso de instalar y poner en funcionamiento una aplicación en un entorno de producción",
+          "El proceso de diseñar una interfaz gráfica",
+          "El proceso de escribir documentación"
+        ],
+        "correct_answer": "El proceso de instalar y poner en funcionamiento una aplicación en un entorno de producción"
+      },
+      {
+        "question": "¿Qué es la 'prueba de integración'?",
+        "options": [
+          "Una prueba que verifica si una unidad de código funciona correctamente",
+          "Una prueba para verificar que las partes del sistema interactúan correctamente entre sí",
+          "Una prueba que asegura la seguridad del código",
+          "Una prueba que valida los requisitos del cliente"
+        ],
+        "correct_answer": "Una prueba para verificar que las partes del sistema interactúan correctamente entre sí"
+      }
+    ],
+    "true_false_questions": [
+      {
+        "question": "El lenguaje de programación JavaScript se utiliza principalmente para el desarrollo de aplicaciones móviles.",
+        "correct_answer": false
+      },
+      {
+        "question": "El patrón de diseño MVC (Modelo-Vista-Controlador) es utilizado para estructurar aplicaciones web.",
+        "correct_answer": true
+      },
+      {
+        "question": "El desarrollo de software ágil se enfoca en la entrega incremental y la flexibilidad frente a cambios.",
+        "correct_answer": true
+      },
+      {
+        "question": "El sistema de control de versiones Git permite gestionar de manera eficiente las versiones de un proyecto.",
+        "correct_answer": true
+      },
+      {
+        "question": "El término 'agile' hace referencia a un tipo de lenguaje de programación.",
+        "correct_answer": false
+      },
+      {
+        "question": "Las bases de datos SQL son más adecuadas para trabajar con datos no estructurados.",
+        "correct_answer": false
+      },
+      {
+        "question": "Una prueba unitaria se realiza a nivel de integración entre diferentes módulos del software.",
+        "correct_answer": false
+      },
+      {
+        "question": "El concepto de 'scrum' es una metodología ágil para la gestión de proyectos de software.",
+        "correct_answer": true
+      },
+      {
+        "question": "En el desarrollo de software, el 'refactoring' implica cambiar la funcionalidad del código.",
+        "correct_answer": false
+      },
+      {
+        "question": "Las bases de datos NoSQL son más flexibles en cuanto a la estructura de los datos que las bases de datos SQL.",
+        "correct_answer": true
+      }
+    ]
+  }
+  
